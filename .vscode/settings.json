@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+
+
+    },
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "left",
+    "workbench.preferredLightColorTheme": "Visual Studio Dark",
+    "workbench.editor.decorations.colors": true,
+    "workbench.activityBar.iconClickBehavior": "toggle"
+}
